@@ -9,6 +9,8 @@ Practicas de programación con NodeJs utilizando:
 - Funtions
 - If - Else
 - Arrays
+- For
+- While
 
 ![Arrays1](img/arrays1.jpg)
 ![Arrays2](img/arrays2.jpg)
